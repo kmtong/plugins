@@ -1,8 +1,8 @@
-name: webview_flutter
-description: A Flutter plugin that provides a WebView widget on Android and iOS.
+name: webview_flutter_navfix
+description: A Flutter plugin that provides a WebView widget on Android and iOS (Android Navigation Fix).
 version: 0.3.3+1
-author: Flutter Team <flutter-dev@googlegroups.com>
-homepage: https://github.com/flutter/plugins/tree/master/packages/webview_flutter
+author: KM Tong <kmtong@gmail.com>
+homepage: https://github.com/kmtong/plugins/tree/navfix/packages/webview_flutter
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
